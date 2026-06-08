@@ -4,8 +4,6 @@
 
 This repository contains C++ programs demonstrating the concept of **Inheritance** in Object-Oriented Programming (OOP). These programs show how derived classes can inherit properties and behaviors from base classes while adding their own specialized features.
 
----
-
 # Program 1: Publication, Book and Tape
 
 ## Description
@@ -41,9 +39,7 @@ The Tape class adds:
 * Input book details
 * Input tape details
 * Display complete information
-
----
-
+  
 # Program 2: Employee and ProductionWorker
 
 ## Description
@@ -85,8 +81,6 @@ Stores:
 * Store shift information
 * Display worker details
 * Display hourly pay rate
-
----
 
 # Program 3: Employee and ShiftSupervisor
 
@@ -131,8 +125,6 @@ Total Annual Income = Annual Salary + Annual Bonus
 * Store annual bonus
 * Calculate total annual income
 
----
-
 # OOP Concepts Demonstrated
 
 * Classes and Objects
@@ -145,15 +137,12 @@ Total Annual Income = Annual Salary + Annual Bonus
 * Function Reusability
 * Data Abstraction
 
----
 
 # Technologies Used
 
 * C++
 * Object-Oriented Programming (OOP)
 * Visual Studio / Dev-C++ / CodeBlocks
-
----
 
 # Learning Outcomes
 
@@ -168,6 +157,5 @@ After completing these programs, students will be able to:
 ---
 
 ## Author
-
-**Romi**
-BS Computer Science
+KHADIJA RAFIQUE
+45
